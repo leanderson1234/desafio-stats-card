@@ -31,7 +31,7 @@ Layout Desktop:
 ![desktop](./src/assets/layout/card_layout_eu.png)
 
 Layout Mobile:
-![mobile](./src/assets/layout/card_layout_mobile.png)
+![mobile](./src/assets/layout/card_layout_mobile_eu.png)
 
 ### Tecnologias usadas
 

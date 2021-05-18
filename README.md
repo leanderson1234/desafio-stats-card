@@ -45,7 +45,7 @@ Layout Mobile:
 
 ### O que eu aprendi
 
-Pratiquei conceitos já aprendidos
+Pratiquei conceitos já aprendidos.
 
 ### continuando o desenvolvimento
 
